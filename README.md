@@ -3,6 +3,7 @@ Prerequisites
 Have lazy.nvim installed.
 
 -- (Ubuntu) --
+
 *#1:*
 Create an nvim folder inside the .config directory.
 
