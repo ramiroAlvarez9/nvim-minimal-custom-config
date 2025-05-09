@@ -8,4 +8,4 @@ Have lazy.nvim installed.
 Create an nvim folder inside the .config directory.
 
 *#2:*
-Inside the nvim folder, clone the contents of this repository.
+Inside the nvim folder, clone the contents of this repository. (except the readme.md)
